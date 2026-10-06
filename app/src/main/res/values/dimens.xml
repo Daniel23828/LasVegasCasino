@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lv_image">377dp</dimen>
+    <dimen name="lv_margin">20dp</dimen>
+    <dimen name="dice_margin">45dp</dimen>
+    <dimen name="button_margin">150dp</dimen>
+</resources>
